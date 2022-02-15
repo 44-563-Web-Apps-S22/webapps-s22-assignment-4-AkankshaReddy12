@@ -1,0 +1,7 @@
+.speech{color: black;font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;font-size: medium;}
+.direction{background-color: azure;font-family: Arial, Helvetica, sans-serif;color: black;font-size: small;}
+.name{color: black;font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;font-size: 10px;}
+.direction:hover{background-color:cadetblue;color: grey;}
+.MUSICMASTER{color: blueviolet;}
+.DANCINGMASTER{color: pink;}
+.Master{color: purple;}
