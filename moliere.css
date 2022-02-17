@@ -5,6 +5,11 @@
 .MUSICMASTER{color: blueviolet;}
 .DANCINGMASTER{color: pink;}
 .Master{color: purple;}
+.name:hover{
+    text-shadow: 3px 6px 8px blue;
+    border: solid 3px pink;
+
+}
 table,th,td{
     
     margin: 2px solid black;
