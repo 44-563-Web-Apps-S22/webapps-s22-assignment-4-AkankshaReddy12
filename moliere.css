@@ -5,3 +5,23 @@
 .MUSICMASTER{color: blueviolet;}
 .DANCINGMASTER{color: pink;}
 .Master{color: purple;}
+table,th,td{
+    
+    margin: 2px solid black;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td{
+    padding: 3px;
+    color:red;
+    margin: 2px solid black;
+    text-align:right;
+}
+th{
+    color: blue;
+    margin: 2px solid black;
+    text-align: center;
+}
+tr:nth-child(odd){
+    background-color: aquamarine;
+}
